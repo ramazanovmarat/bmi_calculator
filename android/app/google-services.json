@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746108812613",
+    "project_id": "rarat-6f067",
+    "storage_bucket": "rarat-6f067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746108812613:android:cf9c74c2be24532706122c",
+        "android_client_info": {
+          "package_name": "sidemel.cons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746108812613-mbre26f9dmcgf6f7o3rmvrqdjaikcg1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUEvCgssKHzN0Hzgu4hbutrxQC8MQ8xK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746108812613-mbre26f9dmcgf6f7o3rmvrqdjaikcg1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
